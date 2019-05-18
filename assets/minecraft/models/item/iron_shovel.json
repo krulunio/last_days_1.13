@@ -1,0 +1,6 @@
+{
+    "parent": "item/tool_alt",
+    "textures": {
+        "layer0": "item/iron_shovel"
+    }
+}
